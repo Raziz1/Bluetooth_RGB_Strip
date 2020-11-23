@@ -41,6 +41,11 @@ We use pins 11, 10, and 9 because they support PWM (Pulse Width Modulation) whic
 * The RGB strip color works by displaying the color only if the corresponding wire is pulled to **LOW (Ground)**
 
 ## Bluetooth App Setup 📶📱
+
+<p> 
+  <img align='Right' width=360 height=640 src="https://github.com/Raziz1/Bluetooth_RGB_Strip/blob/main/images/screen-1.jpg? raw=true">
+</p>
+
 * [BLE Elegoo APK](https://github.com/Raziz1/Bluetooth_RGB_Strip/blob/main/code/ElEGOO%20BLE%20Tool.apk)
 1.  Connect to your bluetooth module (HC-08)
 2.  Go to the keyboard tab
