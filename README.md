@@ -24,9 +24,9 @@ Arduino Uno + RGB Strip + HC-08 Bluetooth Module
 |   **Arduino** | **RGB LED Strip**|
 | ------------- |:-------------:|
 | 5V            | Power (White Cable)| 
-|12             | Red (Red Cable)    |   
-| 11            | Green (Green Cable)|
-| 10            | Blue (Blue Cable)  |
+|11~             | Red (Red Cable)    |   
+| 10~            | Green (Green Cable)|
+| 9~            | Blue (Blue Cable)  |
 
 
 
