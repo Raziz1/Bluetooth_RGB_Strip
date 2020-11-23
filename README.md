@@ -1,6 +1,10 @@
 # Bluetooth_RGB_Strip 📶🔴🟢🔵
 Arduino Uno + RGB Strip + HC-08 Bluetooth Module
 
+<p> 
+  <img align='Right' width=350 height=350 src="https://github.com/Raziz1/Bluetooth_RGB_Strip/blob/main/images/icon.png? raw=true">
+</p>
+
 ## Parts 🛠
 * [Arduino Uno](https://www.amazon.ca/Elegoo-Board-ATmega328P-ATMEGA16U2-Arduino/dp/B01EWOE0UU/ref=sr_1_2_sspa?dchild=1&keywords=arduino+uno&qid=1606103005&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzQ1hXUk5QTjFZMzIwJmVuY3J5cHRlZElkPUEwOTY1NTEzNzVVN1Q3WlhYOExDJmVuY3J5cHRlZEFkSWQ9QTEwMTg4MjRNT1NQMVNYWk03UiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
 * [RGB LED strip](https://www.amazon.ca/Dimmable-Flexible-Backlight-Control-Decoration/dp/B07CQDB1KP/ref=sr_1_81?dchild=1&keywords=usb+rgb+led+strip&qid=1606102628&sr=8-81)
