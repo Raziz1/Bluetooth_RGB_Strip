@@ -34,4 +34,11 @@ Arduino Uno + RGB Strip + HC-08 Bluetooth Module
 | 9~            | Blue (Blue Cable)  |
 
 
+## Code 💻
+We use pins 11, 10, and 9 because they support PWM (Pulse Width Modulation) which allows us to create a fade effect on the RGB strip by adjusting the frequency that electricity is passed to the specified pin. 
+* The code uses a delay function for the fade effect other wise it is not visible (To quick) which results in the bluetooth module not receiving commands until the end of the fade effect.
+* There is an interval of 2 seconds in the code in between the RGB color switch function which can be manually changed.
+* The RGB strip color works by displaying the color only if the corresponding wire is pulled to **LOW (Ground)**
+
+
 
