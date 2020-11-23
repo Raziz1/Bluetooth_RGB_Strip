@@ -9,6 +9,9 @@ Arduino Uno + RGB Strip + HC-08 Bluetooth Module
 ## Libraries
 * This also requires an app to send information through bluetooth through the module. I have provided an APK for the BLE elegoo bluetooth app which worked for me.
 
+## Wiring
+
+
 
 
 
