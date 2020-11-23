@@ -40,5 +40,13 @@ We use pins 11, 10, and 9 because they support PWM (Pulse Width Modulation) whic
 * There is an interval of 2 seconds in the code in between the RGB color switch function which can be manually changed.
 * The RGB strip color works by displaying the color only if the corresponding wire is pulled to **LOW (Ground)**
 
+## Bluetooth App Setup 📶📱
+* [BLE Elegoo APK]()
+1.  Connect to your bluetooth module (HC-08)
+2.  Go to the keyboard tab
+3.  Press and hold any of the squares to begin defining the buttons
+4.  Create a button name and the character to be sent to the arduino.
+5.  Make sure the character received is the same character that the code expects to activate certain functions
+
 
 
