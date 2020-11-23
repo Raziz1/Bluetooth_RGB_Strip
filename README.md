@@ -11,7 +11,7 @@ Arduino Uno + RGB Strip + HC-08 Bluetooth Module
 * [HC-08 Bluetooth Module](https://www.amazon.ca/DSD-TECH-SH-HC-08-Transceiver-Compatible/dp/B01N4P7T0H/ref=sr_1_1_sspa?dchild=1&keywords=hc-08&qid=1606103028&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFPSFFJWkM3TVZaVFkmZW5jcnlwdGVkSWQ9QTA1MDE1MTAzSlNLRkY3V0NXTDkxJmVuY3J5cHRlZEFkSWQ9QTAyNTMyOTRCVDFLVU9JTFdOTEcmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl)
 
 ## Libraries 📚
-* This also requires an app to send information through bluetooth through the module. I have provided an APK for the BLE elegoo bluetooth app which worked for me.
+* This also requires an app to send information through bluetooth through the module. I have provided an APK for the [BLE elegoo bluetooth app](https://github.com/Raziz1/Bluetooth_RGB_Strip/blob/main/code/ElEGOO BLE Tool.apk) which worked for me.
 
 ## Schematics ⚡
 <p> 
