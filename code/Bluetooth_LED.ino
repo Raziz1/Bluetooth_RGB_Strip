@@ -120,13 +120,12 @@ void loop() {
   getstr = Serial.read(); //The Bluetooth serial port to receive the data in the function
   if (getstr == 'R' || getstr == 'G' || getstr == 'B' || getstr == 'F' || getstr == 'O' || getstr == 'S') {
     stateChange(getstr);
-  }
-
-  //if switch color or fade is detected call that function
+      //if switch color or fade is detected call that function
   if (switchColor == true) {
     changeColor();
   }
   if (fadeColor == true) {
     fade();
+  }
   }
 }
